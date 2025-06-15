@@ -15,7 +15,7 @@ Kullanıcılar kayıt olabilir, güvenli şekilde giriş yapabilir ve yedekleme 
 - ** Yedekleme Yönetimi**  
   Kullanıcılar, müşteri adı, yedekleme tarihi, boyutu ve durumu içeren kayıtları **ekleyebilir, görüntüleyebilir, düzenleyebilir ve silebilir**.
 
-- **🛡 Güvenli Veri İşleme**  
+- ** Güvenli Veri İşleme**  
   PDO ile güvenli sorgular, hash'li şifreler ve temel güvenlik önlemleri sağlanmıştır.
 
 - ** Responsive Arayüz**  
